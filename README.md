@@ -144,3 +144,8 @@ The datasets were collected to provide comprehensive information about laptops, 
 ## 7. Conclusions
 - The performance on the test data was lower with an R^2 score of 0.7589, suggesting that the model might be overfitting the training data or the test data might have different characteristics.
 
+
+## Presentation
+
+You can view the detailed presentation for this project [Laptop Price Prediction using specifications](https://www.canva.com/design/DAGJXlgohvs/EsFEXIt6WOFEjZTKsXpkwQ/edit).
+
