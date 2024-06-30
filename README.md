@@ -15,7 +15,7 @@ Sure, here's a summary for your README file on GitHub:
 
 ### Overview
 
-This repository contains datasets of laptops with various features. The data is divided into two files: a training dataset (`laptops_train.csv`) and a testing dataset (`laptops_test.csv`). These datasets can be used for tasks such as price prediction, classification, and other machine learning projects.
+This repository contains datasets of laptops with various features. The data is divided into two files: a training dataset (`laptops_train.csv`) and a testing dataset (`laptops_test.csv`). These datasets can be used for tasks such as price prediction, classification, and other machine learning projects. I've used to prediction on the price.
 
 ### Datasets
 
